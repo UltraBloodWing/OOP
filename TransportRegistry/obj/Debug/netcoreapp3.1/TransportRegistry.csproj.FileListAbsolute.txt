@@ -1,0 +1,26 @@
+D:\Uni\OOP\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.exe
+D:\Uni\OOP\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.deps.json
+D:\Uni\OOP\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.runtimeconfig.json
+D:\Uni\OOP\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.runtimeconfig.dev.json
+D:\Uni\OOP\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.dll
+D:\Uni\OOP\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.pdb
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.csprojAssemblyReference.cache
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.AssemblyInfoInputs.cache
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.AssemblyInfo.cs
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.csproj.CoreCompileInputs.cache
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.dll
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.pdb
+D:\Uni\OOP\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.genruntimeconfig.cache
+D:\Uni\object oriented\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.exe
+D:\Uni\object oriented\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.deps.json
+D:\Uni\object oriented\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.runtimeconfig.json
+D:\Uni\object oriented\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.runtimeconfig.dev.json
+D:\Uni\object oriented\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.dll
+D:\Uni\object oriented\Week 1\TransportRegistry\bin\Debug\netcoreapp3.1\TransportRegistry.pdb
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.csprojAssemblyReference.cache
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.AssemblyInfoInputs.cache
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.AssemblyInfo.cs
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.csproj.CoreCompileInputs.cache
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.dll
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.pdb
+D:\Uni\object oriented\Week 1\TransportRegistry\obj\Debug\netcoreapp3.1\TransportRegistry.genruntimeconfig.cache

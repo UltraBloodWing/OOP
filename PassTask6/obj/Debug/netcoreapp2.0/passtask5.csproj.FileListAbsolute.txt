@@ -1,0 +1,42 @@
+C:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\passtask5.deps.json
+C:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\passtask5.runtimeconfig.json
+C:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\passtask5.runtimeconfig.dev.json
+C:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\passtask5.dll
+C:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\passtask5.pdb
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.csprojAssemblyReference.cache
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.AssemblyInfoInputs.cache
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.AssemblyInfo.cs
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.csproj.CoreCompileInputs.cache
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.dll
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.pdb
+C:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\passtask5.genruntimeconfig.cache
+F:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\PassTask5.deps.json
+F:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\PassTask5.runtimeconfig.json
+F:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\PassTask5.runtimeconfig.dev.json
+F:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\PassTask5.dll
+F:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\PassTask5.pdb
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.csprojAssemblyReference.cache
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.AssemblyInfoInputs.cache
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.AssemblyInfo.cs
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.csproj.CoreCompileInputs.cache
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.dll
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.pdb
+F:\msys64\home\Mubin\PassTask5\obj\Debug\netcoreapp2.0\PassTask5.genruntimeconfig.cache
+f:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+f:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+f:\msys64\home\Mubin\PassTask5\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\PassTask5.deps.json
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\PassTask5.runtimeconfig.json
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\PassTask5.runtimeconfig.dev.json
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\PassTask5.dll
+d:\Uni\object oriented\Week 2\PassTask6\bin\Debug\netcoreapp2.0\PassTask5.pdb
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.csprojAssemblyReference.cache
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.AssemblyInfoInputs.cache
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.AssemblyInfo.cs
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.csproj.CoreCompileInputs.cache
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.dll
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.pdb
+d:\Uni\object oriented\Week 2\PassTask6\obj\Debug\netcoreapp2.0\PassTask5.genruntimeconfig.cache
